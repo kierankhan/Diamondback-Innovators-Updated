@@ -53,7 +53,7 @@ const About = () => {
                     </a>
                     <div className="p-5">
                         <h3 className="text-xl font-bold tracking-tight text-gray-900 dark:text-white">
-                            <a href="#">Kieran Khan</a>
+                            <a href="#">Kieran Khans</a>
                         </h3>
                         <span className="text-gray-500 dark:text-gray-400">Webmaster</span>
                         <p className="mt-3 mb-4 font-light text-gray-500 dark:text-gray-400">Kieran built and manages the website for Diamondback Innovators</p>
