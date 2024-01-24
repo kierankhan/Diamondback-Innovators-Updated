@@ -24,7 +24,7 @@ const About = () => {
                     </div>
                 </div> 
                 <div className="items-center bg-gray-50 rounded-lg shadow sm:flex dark:bg-gray-800 dark:border-gray-700">
-                    <a href="#">
+                    <a href="#" >
                         <img className="w-full rounded-lg sm:rounded-none sm:rounded-l-lg" src="/shartman.png" alt="Jese Avatar" />
                     </a>
                     <div className="p-5">
