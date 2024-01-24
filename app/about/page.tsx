@@ -13,7 +13,7 @@ const About = () => {
             <div className="grid gap-8 mb-6 lg:mb-16 md:grid-cols-2">
                 <div className="items-center bg-gray-50 rounded-lg shadow sm:flex dark:bg-gray-800 dark:border-gray-700">
                     <a className='w-9/12' href="#">
-                        <img className="w-full rounded-lg sm:rounded-none sm:rounded-l-lg" src="apanchal.jpg" alt="Bonnie Avatar" />
+                        <img className="w-full rounded-lg sm:rounded-none sm:rounded-l-lg" src="/apanchal.png" alt="Bonnie Avatar" />
                     </a>
                     <div className="p-5">
                         <h3 className="text-xl font-bold tracking-tight text-gray-900 dark:text-white">
@@ -25,7 +25,7 @@ const About = () => {
                 </div> 
                 <div className="items-center bg-gray-50 rounded-lg shadow sm:flex dark:bg-gray-800 dark:border-gray-700">
                     <a href="#">
-                        <img className="w-full rounded-lg sm:rounded-none sm:rounded-l-lg" src="shartman.jpg" alt="Jese Avatar" />
+                        <img className="w-full rounded-lg sm:rounded-none sm:rounded-l-lg" src="/shartman.png" alt="Jese Avatar" />
                     </a>
                     <div className="p-5">
                         <h3 className="text-xl font-bold tracking-tight text-gray-900 dark:text-white">
@@ -49,7 +49,7 @@ const About = () => {
                 </div> 
                 <div className="items-center bg-gray-50 rounded-lg shadow sm:flex dark:bg-gray-800 dark:border-gray-700">
                     <a className='w-10/12' href="#">
-                        <img className="w-full rounded-lg sm:rounded-none sm:rounded-l-lg" src="kkhan2.jpg" alt="Sofia Avatar" />
+                        <img className="w-full rounded-lg sm:rounded-none sm:rounded-l-lg" src="/kkhan2.png" alt="Sofia Avatar" />
                     </a>
                     <div className="p-5">
                         <h3 className="text-xl font-bold tracking-tight text-gray-900 dark:text-white">
