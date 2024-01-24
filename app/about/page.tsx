@@ -12,8 +12,8 @@ const About = () => {
             </div> 
             <div className="grid gap-8 mb-6 lg:mb-16 md:grid-cols-2">
                 <div className="items-center bg-gray-50 rounded-lg shadow sm:flex dark:bg-gray-800 dark:border-gray-700">
-                    <a href="#">
-                        <img className="w-full rounded-lg sm:rounded-none sm:rounded-l-lg" src="https://flowbite.s3.amazonaws.com/blocks/marketing-ui/avatars/bonnie-green.png" alt="Bonnie Avatar" />
+                    <a className='w-9/12' href="#">
+                        <img className="w-full rounded-lg sm:rounded-none sm:rounded-l-lg" src="apanchal.jpg" alt="Bonnie Avatar" />
                     </a>
                     <div className="p-5">
                         <h3 className="text-xl font-bold tracking-tight text-gray-900 dark:text-white">
@@ -25,7 +25,7 @@ const About = () => {
                 </div> 
                 <div className="items-center bg-gray-50 rounded-lg shadow sm:flex dark:bg-gray-800 dark:border-gray-700">
                     <a href="#">
-                        <img className="w-full rounded-lg sm:rounded-none sm:rounded-l-lg" src="https://flowbite.s3.amazonaws.com/blocks/marketing-ui/avatars/jese-leos.png" alt="Jese Avatar" />
+                        <img className="w-full rounded-lg sm:rounded-none sm:rounded-l-lg" src="shartman.jpg" alt="Jese Avatar" />
                     </a>
                     <div className="p-5">
                         <h3 className="text-xl font-bold tracking-tight text-gray-900 dark:text-white">
@@ -48,12 +48,12 @@ const About = () => {
                     </div>
                 </div> 
                 <div className="items-center bg-gray-50 rounded-lg shadow sm:flex dark:bg-gray-800 dark:border-gray-700">
-                    <a href="#">
-                        <img className="w-full rounded-lg sm:rounded-none sm:rounded-l-lg" src="https://flowbite.s3.amazonaws.com/blocks/marketing-ui/avatars/sofia-mcguire.png" alt="Sofia Avatar" />
+                    <a className='w-10/12' href="#">
+                        <img className="w-full rounded-lg sm:rounded-none sm:rounded-l-lg" src="kkhan2.jpg" alt="Sofia Avatar" />
                     </a>
                     <div className="p-5">
                         <h3 className="text-xl font-bold tracking-tight text-gray-900 dark:text-white">
-                            <a href="#">Kieran Khans</a>
+                            <a href="#">Kieran Khan</a>
                         </h3>
                         <span className="text-gray-500 dark:text-gray-400">Webmaster</span>
                         <p className="mt-3 mb-4 font-light text-gray-500 dark:text-gray-400">Kieran built and manages the website for Diamondback Innovators</p>
