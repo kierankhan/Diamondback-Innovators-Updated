@@ -6,8 +6,8 @@ import "@fillout/react/style.css";
 function Form() {
   return (
     <div style={{
-      width: 450,
-      height: 700
+      width: 700,
+      height: 670
     }}>
       <FilloutStandardEmbed filloutId="tsNVeRBdwpus" />
     </div>
