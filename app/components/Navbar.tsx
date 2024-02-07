@@ -8,12 +8,12 @@ const Navbar = () => {
     const pathname = usePathname();
   return (
     <div>
-        <header className="flex flex-wrap sm:justify-start sm:flex-nowrap z-50 w-full bg-white text-sm p-3 dark:bg-gray-800">
+        <header className="flex flex-wrap sm:justify-start sm:flex-nowrap z-50 w-full bg-white text-sm p-3">
         <nav className="max-w-[85rem] w-full mx-auto px-4 sm:flex sm:items-center sm:justify-between" aria-label="Global">
             <div className="flex items-center justify-between">
-            <a className="flex-none text-xl font-semibold dark:text-white" href="#">
+            <a className="flex-none text-xl font-semibold" href="#">
                 <div className='flex flex-row items-center'>
-                    <img src="/diamondback_innovators.png" width={70}></img>
+                    <img src="/diamondback_innovators.jpg" width={70}></img>
                     <h1 className='px-2'>Diamondback Innovators</h1>
                 </div>
                 

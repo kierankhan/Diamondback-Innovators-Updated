@@ -20,7 +20,7 @@ const About = () => {
                             <a href="#">Amit Panchal</a>
                         </h3>
                         <span className="text-gray-500 dark:text-gray-400">Founder & President</span>
-                        <p className="mt-3 mb-4 font-light text-gray-500 dark:text-gray-400">Amit drives the high level strategy for the club and its partners</p>
+                        <p className="mt-3 mb-4 font-light text-gray-500 dark:text-gray-400">Drives the high level strategy for the club and its partners</p>
                     </div>
                 </div> 
                 <div className="items-center bg-gray-50 rounded-lg shadow sm:flex dark:bg-gray-800 dark:border-gray-700">
@@ -44,7 +44,7 @@ const About = () => {
                             <a href="#">Youssef Seifeldin</a>
                         </h3>
                         <span className="text-gray-500 dark:text-gray-400">Vice President</span>
-                        <p className="mt-3 mb-4 font-light text-gray-500 dark:text-gray-400">Youssef builds strategy and coaches new members</p>
+                        <p className="mt-3 mb-4 font-light text-gray-500 dark:text-gray-400">Organizes partnerships/events and coaches new members</p>
                     </div>
                 </div> 
                 <div className="items-center bg-gray-50 rounded-lg shadow sm:flex dark:bg-gray-800 dark:border-gray-700">
@@ -56,7 +56,7 @@ const About = () => {
                             <a href="#">Kieran Khan</a>
                         </h3>
                         <span className="text-gray-500 dark:text-gray-400">Webmaster</span>
-                        <p className="mt-3 mb-4 font-light text-gray-500 dark:text-gray-400">Kieran built and manages the website for Diamondback Innovators</p>
+                        <p className="mt-3 mb-4 font-light text-gray-500 dark:text-gray-400">Built and manages the website for Diamondback Innovators</p>
                     </div>
                 </div>  
             </div>  
