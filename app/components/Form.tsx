@@ -5,11 +5,11 @@ import "@fillout/react/style.css";
 
 function Form() {
   return (
-    <div style={{
-      width: 700,
-      height: 670
+    <div className="w-max h-max" style={{
+      width: 370,
+      height: "100%"
     }}>
-      <FilloutStandardEmbed filloutId="tsNVeRBdwpus" />
+      <FilloutStandardEmbed filloutId="tsNVeRBdwpus"/>
     </div>
   );
 }
