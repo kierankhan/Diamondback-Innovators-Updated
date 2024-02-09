@@ -4,7 +4,7 @@ const ProjectsPage = () => {
   return (
     <div className="flex flex-col  justify-center items-center">
       <h1 className="text-5xl font-extrabold dark:text-white py-10 px-4">Projects<small className="ms-2 font-semibold text-gray-500 dark:text-gray-400">Coming soon...</small></h1>
-      <div className="grid grid-cols-2 gap-4">
+      <div className="grid grid-cols-2 gap-4 px-2">
         
         <div role="status" className="space-y-8 animate-pulse md:space-y-0 md:space-x-8 rtl:space-x-reverse md:flex md:items-center">
           <div className="flex items-center justify-center w-full h-48 bg-gray-300 rounded sm:w-96 dark:bg-gray-700">

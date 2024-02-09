@@ -7,7 +7,7 @@ export default function Home() {
     <main>
       <div className='flex flex-col justify-center items-center h-screen' style={{ backgroundImage: 'url("/testudo.avif")' }}>
         {/* <img src="/testudo.avif"></img> */}
-        <h1 className="mb-4 text-4xl text-center font-extrabold leading-none tracking-tight text-red-700 text-shadow md:text-5xl lg:text-6xl dark:text-white">Diamondback Innovators @ UMD</h1>
+        <h1 className="mb-4 text-4xl text-center font-extrabold leading-none tracking-tight text-red-700 text-shadow md:text-5xl lg:text-6xl">Diamondback Innovators @ UMD</h1>
         <p className="mb-6 text-lg text-center font-normal text-gray-300 text-shadow lg:text-xl sm:px-16 xl:px-48 dark:text-gray-400">We are the first student-run engineering consulting club at the University of Maryland</p>
         <a href="/contact" className="inline-flex items-center justify-center px-5 py-3 text-base font-medium text-center text-white bg-blue-700 rounded-lg hover:bg-blue-800 focus:ring-4 focus:ring-blue-300 dark:focus:ring-blue-900">
             Join Us
