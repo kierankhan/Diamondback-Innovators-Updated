@@ -16,7 +16,7 @@ const ActualNavbar = () => {
             <a className="flex-none text-xl font-semibold" href="#">
                 <div className='flex flex-row items-center'>
                     <img src="/diamondback_innovators.jpg" width={70}></img>
-                    <h1 className='px-2'>Diamondback Innovators</h1>
+                    <h1 className='text-black px-2'>Diamondback Innovators</h1>
                 </div>
                 
             </a>
