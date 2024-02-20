@@ -24,8 +24,8 @@ const About = () => {
                     </div>
                 </div> 
                 <div className="items-center bg-gray-50 rounded-lg shadow sm:flex dark:bg-gray-800 dark:border-gray-700">
-                    <a href="#" >
-                        <img className="w-full rounded-lg sm:rounded-none sm:rounded-l-lg" src="/shartman.png" alt="Jese Avatar" />
+                    <a className="w-2/3" href="#" >
+                        <img className="w-full rounded-lg sm:rounded-none sm:rounded-l-lg" src="/seb.jpg" alt="Jese Avatar" />
                     </a>
                     <div className="p-5">
                         <h3 className="text-xl font-bold tracking-tight text-gray-900 dark:text-white">
@@ -36,8 +36,8 @@ const About = () => {
                     </div>
                 </div> 
                 <div className="items-center bg-gray-50 rounded-lg shadow sm:flex dark:bg-gray-800 dark:border-gray-700">
-                    <a href="#">
-                        <img className="w-full rounded-lg sm:rounded-none sm:rounded-l-lg" src="https://flowbite.s3.amazonaws.com/blocks/marketing-ui/avatars/michael-gouch.png" alt="Michael Avatar" />
+                    <a className="w-10/12" href="#">
+                        <img className="w-full rounded-lg sm:rounded-none sm:rounded-l-lg" src="/youssef.jpg" alt="Michael Avatar" />
                     </a>
                     <div className="p-5">
                         <h3 className="text-xl font-bold tracking-tight text-gray-900 dark:text-white">
