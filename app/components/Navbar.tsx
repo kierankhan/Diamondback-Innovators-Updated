@@ -32,6 +32,7 @@ const ActualNavbar = () => {
                     <Link onClick={() => setMenuToggle(!menuToggle)} className="font-medium text-gray-600 dark:focus:outline-none dark:focus:ring-1 dark:focus:ring-gray-600" href="/" aria-current="page">Home</Link>
                     <Link onClick={() => setMenuToggle(!menuToggle)} className="font-medium text-gray-600 hover:text-gray-400 dark:text-gray-400 dark:hover:text-gray-500 dark:focus:outline-none dark:focus:ring-1 dark:focus:ring-gray-600" href="/about">About</Link>
                     <Link onClick={() => setMenuToggle(!menuToggle)} className="font-medium text-gray-600 hover:text-gray-400 dark:text-gray-400 dark:hover:text-gray-500 dark:focus:outline-none dark:focus:ring-1 dark:focus:ring-gray-600" href="/projects">Projects</Link>
+                    <Link onClick={() => setMenuToggle(!menuToggle)} className="font-medium text-gray-600 hover:text-gray-400 dark:text-gray-400 dark:hover:text-gray-500 dark:focus:outline-none dark:focus:ring-1 dark:focus:ring-gray-600" href="/events">Events</Link>
                     <Link onClick={() => setMenuToggle(!menuToggle)} className="font-medium text-gray-600 hover:text-gray-400 dark:text-gray-400 dark:hover:text-gray-500 dark:focus:outline-none dark:focus:ring-1 dark:focus:ring-gray-600" href="/contact">Contact</Link>
                 </div>
                 </div>
